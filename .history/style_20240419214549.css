@@ -86,14 +86,7 @@ p {
 }
 
 .container ul {
-    display: flex;
-    align-items: center;
-    margin-bottom: 2rem;
-}
-
-.container ul li:first-child {
-    font-size: 1.5rem;
-
+    
 }
 .container article:first-child img {
     border-radius: 1rem 1rem 0 0;

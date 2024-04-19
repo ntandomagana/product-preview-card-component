@@ -88,11 +88,10 @@ p {
 .container ul {
     display: flex;
     align-items: center;
-    margin-bottom: 2rem;
 }
 
 .container ul li:first-child {
-    font-size: 1.5rem;
+    font-size: ;
 
 }
 .container article:first-child img {
